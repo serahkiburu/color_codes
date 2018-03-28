@@ -1,0 +1,72 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "color_codes",
+      "path": "http://www.december.com/html/spec/colorcodescompact.html",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Color.Name",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Hex.Code",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Dec.Code",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "X.Code",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "HSL.Code",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "CMYK.Code",
+            "type": "string",
+            "format": "default"
+          }
+        ]
+      },
+      "title": "color codes",
+      "format": "csv",
+      "encoding": "",
+      "description": ""
+    }
+  ],
+  "keywords": [
+    "color codes",
+    "rgb",
+    "cmyk",
+    "hex"
+  ],
+  "homepage": "http://www.december.com/html/spec/colorcodescompact.html",
+  "name": "color_codes",
+  "title": "Color Codes",
+  "description": "",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "title": "Serah Rono",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "title": "Creative Commons Attribution Share-Alike 4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+}
