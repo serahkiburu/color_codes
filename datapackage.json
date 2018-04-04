@@ -10,51 +10,52 @@
           {
             "name": "Color.Name",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "_key": "Color.Name"
           },
           {
             "name": "Hex.Code",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "_key": "Hex.Code"
           },
           {
             "name": "Dec.Code",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "_key": "Dec.Code"
           },
           {
             "name": "X.Code",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "_key": "X.Code"
           },
           {
             "name": "HSL.Code",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "_key": "HSL.Code"
           },
           {
             "name": "CMYK.Code",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "_key": "CMYK.Code"
           }
         ]
-      },
-      "title": "color codes",
-      "format": "csv",
-      "encoding": "",
-      "description": ""
+      }
     }
   ],
   "keywords": [
     "color codes",
-    "rgb",
     "cmyk",
+    "rgb",
     "hex"
   ],
-  "homepage": "http://www.december.com/html/spec/colorcodescompact.html",
   "name": "color_codes",
   "title": "Color Codes",
-  "description": "",
+  "homepage": "http://www.december.com/html/spec/colorcodescompact.html",
   "version": "1.0.0",
   "contributors": [
     {
