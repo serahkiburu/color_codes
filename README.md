@@ -67,6 +67,6 @@ To obtain a local copy of or update the data, you need:
 
 ## Licensing
 
-As stated on the web page, [the colors and codes are sourced from different pages](http://www.december.com/html/spec/colorlinks.html). Where stipulated, the data is licensed under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+All data on this page is from the color chart work by [John December](http://johndecember.com/). As stated on the website, [the colors and codes are sourced from different pages](http://www.december.com/html/spec/colorlinks.html). Where stipulated, the data is licensed under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 Everything else is licensed under the [CC0 Public Domain
 Waiver](https://creativecommons.org/publicdomain/zero/1.0/).
