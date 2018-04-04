@@ -1,3 +1,5 @@
+[![goodtables.io](https://goodtables.io/badge/github/serahrono/color_codes.svg)](https://goodtables.io/github/serahrono/color_codes)
+
 This Color Codes Data Package is extracted from http://www.december.com/html/spec/colorcodescompact.html.
 
 
