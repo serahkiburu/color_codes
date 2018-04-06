@@ -10,38 +10,32 @@
           {
             "name": "Color.Name",
             "type": "string",
-            "format": "default",
-            "_key": "Color.Name"
+            "format": "default"
           },
           {
             "name": "Hex.Code",
             "type": "string",
-            "format": "default",
-            "_key": "Hex.Code"
+            "format": "default"
           },
           {
             "name": "Dec.Code",
             "type": "string",
-            "format": "default",
-            "_key": "Dec.Code"
+            "format": "default"
           },
           {
             "name": "X.Code",
             "type": "string",
-            "format": "default",
-            "_key": "X.Code"
+            "format": "default"
           },
           {
             "name": "HSL.Code",
             "type": "string",
-            "format": "default",
-            "_key": "HSL.Code"
+            "format": "default"
           },
           {
             "name": "CMYK.Code",
             "type": "string",
-            "format": "default",
-            "_key": "CMYK.Code"
+            "format": "default"
           }
         ]
       }
