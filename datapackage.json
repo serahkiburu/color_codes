@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "color_codes",
-      "path": "data/color_codes.csv",
+      "path": "https://github.com/serahrono/color_codes/blob/master/data/color_codes.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
